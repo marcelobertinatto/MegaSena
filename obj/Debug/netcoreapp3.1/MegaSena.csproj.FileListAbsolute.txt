@@ -1,0 +1,17 @@
+E:\Marcelo\Sandbox\MegaSena\MegaSena\bin\Debug\netcoreapp3.1\MegaSena.exe
+E:\Marcelo\Sandbox\MegaSena\MegaSena\bin\Debug\netcoreapp3.1\MegaSena.deps.json
+E:\Marcelo\Sandbox\MegaSena\MegaSena\bin\Debug\netcoreapp3.1\MegaSena.runtimeconfig.json
+E:\Marcelo\Sandbox\MegaSena\MegaSena\bin\Debug\netcoreapp3.1\MegaSena.runtimeconfig.dev.json
+E:\Marcelo\Sandbox\MegaSena\MegaSena\bin\Debug\netcoreapp3.1\MegaSena.dll
+E:\Marcelo\Sandbox\MegaSena\MegaSena\bin\Debug\netcoreapp3.1\MegaSena.pdb
+E:\Marcelo\Sandbox\MegaSena\MegaSena\obj\Debug\netcoreapp3.1\MegaSena.GeneratedMSBuildEditorConfig.editorconfig
+E:\Marcelo\Sandbox\MegaSena\MegaSena\obj\Debug\netcoreapp3.1\MegaSena.AssemblyInfoInputs.cache
+E:\Marcelo\Sandbox\MegaSena\MegaSena\obj\Debug\netcoreapp3.1\MegaSena.AssemblyInfo.cs
+E:\Marcelo\Sandbox\MegaSena\MegaSena\obj\Debug\netcoreapp3.1\MegaSena.csproj.CoreCompileInputs.cache
+E:\Marcelo\Sandbox\MegaSena\MegaSena\obj\Debug\netcoreapp3.1\MegaSena.csproj.CopyComplete
+E:\Marcelo\Sandbox\MegaSena\MegaSena\obj\Debug\netcoreapp3.1\MegaSena.dll
+E:\Marcelo\Sandbox\MegaSena\MegaSena\obj\Debug\netcoreapp3.1\MegaSena.pdb
+E:\Marcelo\Sandbox\MegaSena\MegaSena\obj\Debug\netcoreapp3.1\MegaSena.genruntimeconfig.cache
+E:\Marcelo\Sandbox\MegaSena\MegaSena\obj\Debug\netcoreapp3.1\MegaSena.csproj.AssemblyReference.cache
+E:\Marcelo\Sandbox\MegaSena\MegaSena\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+E:\Marcelo\Sandbox\MegaSena\MegaSena\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
